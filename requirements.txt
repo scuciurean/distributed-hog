@@ -1,0 +1,13 @@
+checksumdir==1.2.0
+imageio==2.33.1
+matplotlib==3.8.2
+numpy==1.24.2
+opencv_python==4.7.0.68
+pandas==2.2.0
+progressbar33==2.4
+Requests==2.31.0
+roboflow==1.1.16
+scikit_learn==1.4.0
+scipy==1.11.4
+scikit-image
+torch==2.1.2

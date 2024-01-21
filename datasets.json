@@ -1,0 +1,29 @@
+{
+    "format": "tensorflow",
+    "datasets": [
+        {
+            "user": "sallar",
+            "project": "car-highway",
+            "version": 1,
+            "checksum": "378b59d2d52a3991ff668fb8c56f2b33"
+        },
+        {
+            "user": "sliit-czlq2",
+            "project": "cdap",
+            "version": 2,
+            "checksum": "883792ffad32a8937f933ca0d7309b58"
+        },
+        {
+            "user": "nours-g8unb",
+            "project": "vehicles_night",
+            "version": 3,
+            "checksum": "6770bcd53092fc481e4e97c1a9b472a0"
+        },
+        {
+            "user": "university-of-passau-germany",
+            "project": "goodconditionstraffic",
+            "version": 2,
+            "checksum": "b75f030d7c47928ad4190cec8b3ee081"
+        }
+    ]
+}
